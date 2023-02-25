@@ -13,9 +13,10 @@
 <img src="https://github.com/pinakikundu/pinakikundu/blob/main/Logos/bash.svg" alt="Bash" width="50" height="50"/>
 <img src="https://github.com/pinakikundu/pinakikundu/blob/main/Logos/github.png" alt="GitHub" width="50" height="50"/> 
 <img src="https://github.com/pinakikundu/pinakikundu/blob/main/Logos/aws.png" alt="AWS" width="50" height="50"/>
+<img src="https://github.com/pinakikundu/pinakikundu/blob/main/Logos/ace.png" alt="Aviatrix" width="50" height="50"/>
 </p>
 
-- 🔭 I’m currently working on : Automate everything ...
+- 🔭 I’m currently working on : My GitHub Organization [Terrazure](https://github.com/Terrazure)
 - 🌱 I’m currently learning : [Terratest](https://terratest.gruntwork.io/docs/#getting-started) 
 - 🤔 I’m looking for help with : Build a automation portal using [React](https://reactjs.org/)
 - 💬 Ask me about : Azure | Azure DevOps | DevOps | Terraform.
