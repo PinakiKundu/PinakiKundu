@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning : [Terratest](https://terratest.gruntwork.io/docs/#getting-started) 
 - 🤔 I’m looking for help with : Build a automation portal using [React](https://reactjs.org/)
 - 💬 Ask me about : Azure | Azure DevOps | DevOps | Terraform.
-- 📫 How to reach me : pinakispecial@gmail.com
+- 📫 How to reach me : https://pinakis.co.in/contact.php
 - ⚡ Fun fact : ...
 - 🥇 Accreditation : [Credly](https://www.credly.com/users/pinakikundu)
 - :octocat: [My Resume/CV](https://github.com/PinakiKundu/PinakiKUndu/blob/master/pinaki_resume.pdf)
